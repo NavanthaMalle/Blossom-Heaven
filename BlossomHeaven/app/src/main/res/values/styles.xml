@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.BlossomHeaven" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+
+    <!-- AppBarOverlay -->
+    <style name="Theme.BlossomHeaven.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <!-- Customizations for the AppBar -->
+    </style>
+
+    <!-- PopupOverlay -->
+    <style name="Theme.BlossomHeaven.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <!-- Customizations for popups or dialogs -->
+    </style>
+
+</resources>
